@@ -7,6 +7,7 @@ I'm a Web Developer that focuses on front-end JavaScript frameworks such as Reac
 
 [![portfolio button](https://github.com/ruthmatieu/ruthmatieu/blob/master/images/portfolio-btn.png "Alanna's portfolio")](https://ruthmatieu.com)
 
+I'm a Web Developer that focuses on front-end JavaScript frameworks such as React. I have a passion for Design Systems, Web Accessibility, and serverless technologies such as AWS and Google Cloud. To expand my skills, I am currently focused on building a JAM (JavaScript API Markup) stack for a non-profit organization called Women Who Code. I'm a Web Developer that focuses on front-end JavaScript frameworks such as React. I have a passion for Design Systems, Web Accessibility, and serverless technologies such as AWS and Google Cloud. To expand my skills, I am currently focused on building a JAM (JavaScript API Markup) stack for a non-profit organization called Women Who Code. 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ruthmatieu&layout=compact&theme=calm&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthmatieu&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
