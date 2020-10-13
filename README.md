@@ -1,6 +1,6 @@
 ![hero-image](https://github.com/ruthmatieu/ruthmatieu/blob/master/images/hero-image.jpg)
 
-### 👋 Hi. I’m Ruth. But I prefer Alanna.
+### 👋 Hi. I’m Ruth. But I prefer Alanna.,,,
 
 I'm a Web Developer that focuses on front-end JavaScript frameworks such as React. I have a passion for Design Systems, Web Accessibility, and Serverless Technologies such as AWS and Google Cloud. To expand my skills, I am currently focused on building a JAM (JavaScript API Markup) stack for a non-profit organization called Women Who Code. 
 
