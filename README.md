@@ -11,7 +11,7 @@ I'm a Web Developer that focuses on front-end JavaScript frameworks such as Reac
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ruthmatieu&layout=compact&theme=calm&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthmatieu&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
-Feel free to connect with me: Twitter | LinkedIn | Instagram
+Feel free to connect with me: Twitter | LinkedIn | Instagram.
 <!--
 **ruthmatieu/ruthmatieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
