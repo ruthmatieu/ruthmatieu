@@ -2,10 +2,7 @@
 
 ### 👋🏾 Hi. I’m Ruth. But I prefer Alanna.
 
-I'm a Web Developer that focuses on front-end JavaScript frameworks such as React. To expand my skills, I am currently learning the backend as I navigate through Lambda School's 18-month intensive Fullstack Development program. Outside of work, I spend most of my time reading, writing to share what I've learned, and coding in order to solidify my understanding of new concepts.
-
-
-[![portfolio button](https://github.com/ruthmatieu/ruthmatieu/blob/master/images/portfolio-btn.png "Alanna's portfolio")](https://ruthmatieu.com)
+[![portfolio button](https://github.com/ruthmatieu/ruthmatieu/blob/master/images/portfolio-btn.png "Alanna's website")](https://blog.ruthmatieu.com/)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ruthmatieu&layout=compact&theme=calm&hide=issues)
