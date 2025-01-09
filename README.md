@@ -2,9 +2,6 @@
 
 ### 👋🏾 Hi. I’m Ruth. But I prefer Alanna.
 
-[![portfolio button](https://github.com/ruthmatieu/ruthmatieu/blob/master/images/portfolio-btn.png "Alanna's website")](https://blog.ruthmatieu.com/)
-
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ruthmatieu&layout=compact&theme=calm&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthmatieu&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
